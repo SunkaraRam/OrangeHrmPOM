@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ResourcesPOM.AppTest" duration-ms="10290" started-at="2019-08-27T09:51:25Z" finished-at="2019-08-27T09:51:35Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="10290" started-at="2019-08-27T09:51:25Z" finished-at="2019-08-27T09:51:35Z">
+      <class name="ResourcesPOM.AppTest">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:ResourcesPOM.AppTest@3cbbc1e0]" name="launchApp" is-config="true" duration-ms="13648" started-at="2019-08-27T15:21:11Z" finished-at="2019-08-27T15:21:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="adminLoginCheck()[pri:0, instance:ResourcesPOM.AppTest@3cbbc1e0]" name="adminLoginCheck" duration-ms="10275" started-at="2019-08-27T15:21:25Z" finished-at="2019-08-27T15:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminLoginCheck -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:ResourcesPOM.AppTest@3cbbc1e0]" name="closeApp" is-config="true" duration-ms="110" started-at="2019-08-27T15:21:35Z" finished-at="2019-08-27T15:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- ResourcesPOM.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- ResourcesPOM.AppTest -->
+</testng-results>
